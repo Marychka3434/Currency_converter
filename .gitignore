@@ -1,0 +1,16 @@
+# Данные (личная история конвертаций)
+history.json
+
+# Временные файлы Python
+pycache/
+*.pyc
+*.pyo
+
+# Файлы IDE
+.vscode/
+.idea/
+*.swp
+
+# Системные файлы
+.DS_Store
+Thumbs.db
